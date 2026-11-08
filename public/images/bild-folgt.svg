@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title">
+  <title id="title">Bild folgt</title>
+  <rect width="1200" height="1200" fill="#efede7"/>
+  <path d="M120 120h960v960H120z" fill="none" stroke="#d8d3c9" stroke-width="2"/>
+  <text x="600" y="620" fill="#263b33" font-family="Georgia,serif" font-size="54" text-anchor="middle">Bild folgt</text>
+</svg>

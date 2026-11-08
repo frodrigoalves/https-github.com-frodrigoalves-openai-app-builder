@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+*.log
+playwright-report/
+test-results/
+screenshots/qa/
